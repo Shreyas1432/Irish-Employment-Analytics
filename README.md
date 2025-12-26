@@ -21,6 +21,6 @@ Python (pandas, matplotlib, seaborn), MongoDB Atlas, NumPy
 ## How to Run
 ```bash
 pip install -r requirements.txt
-python employment_analysis_complete.py
+python employment_analysis_complete_clean.py
 ```
 Outputs save to `outputs/` folder. Requires MongoDB Atlas connection (credentials in script).
