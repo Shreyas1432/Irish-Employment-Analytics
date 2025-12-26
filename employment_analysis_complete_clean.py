@@ -7,7 +7,7 @@ import warnings
 import os
 warnings.filterwarnings('ignore')
 
-MONGO_URI = 'mongodb+srv://shreyassudarshanam98_db_user:A3K4M9ln3cInfA5m@dubin.tdpbwgk.mongodb.net/'
+MONGO_URI = 'mongodb+srv://shreyas***_db_user:************.net/'
 DB_NAME = 'dublin_employment'
 COLLECTION_RAW = 'employment_raw'
 COLLECTION_CLEAN = 'employment_clean'
@@ -234,3 +234,4 @@ print(f"\nVisualizations saved to '{OUTPUT_FOLDER}/' folder")
 
 if client:
     client.close()
+
